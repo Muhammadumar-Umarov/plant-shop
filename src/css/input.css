@@ -1,0 +1,16 @@
+@font-face {
+    font-family: "montserrat";
+    src: url(../fonts/Montserrat-VariableFont_wght.ttf);
+}
+@font-face {
+    font-family: "work_sans";
+    src: url(../fonts/WorkSans-VariableFont_wght.ttf);
+}
+
+@import "tailwindcss";
+
+
+.container{
+    max-width: 1198px;
+    padding: 0 16px;
+}
